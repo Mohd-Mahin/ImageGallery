@@ -1,0 +1,59 @@
+.hidden_block {
+  background-color: rgba(0,0,0,0.9);
+  width: 100%;
+  height: 690px;
+  position: fixed;
+  top: 0;
+  display: none;
+  left:0;
+}
+
+.m-2.big_image {
+  width: 60%;
+  border: 5px solid green;
+}
+
+.card_width {
+  width: 20%;
+  float: left;
+}
+
+.full_view_container {
+  height: 500px;
+  background-color: rgba(0, 0, 0, 0.712);
+}
+
+.full_view {
+  width: 100%;
+  height: 95%;
+}
+
+.root {
+  margin: 5px;
+  box-shadow: 0 0 0 15px rgb(255, 209, 157); 
+  border-radius: 10px;  
+  border: 5px solid rgb(87, 66, 42);  
+}
+
+.root_color {
+  background: rgb(160, 125, 82);
+}
+
+.image_viewer_text {
+  color: rgb(83, 59, 34);
+}
+
+.col-2.text-white.text-center.align-self-center {
+  background: rgba(0, 0, 0, 0.9);
+  height: 40px;
+  line-height: 50px;
+}
+
+.col-2.text-white.text-center.align-self-center span {
+  width: 100%;
+  height: 60%;
+}
+
+.cursor_style {
+  cursor: pointer;
+}
